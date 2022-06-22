@@ -3,11 +3,11 @@ A prototype system illustrating the possibilities offered by smart agriculture (
 
    #Equipment used:
    raspberry-pi
-   Soil Moisture Detector
-   Air temperature and humidity sensor (DHT22)
-   solenoid valve
-   BMP280 Barometer
-   DS1302 real time clock
+   /Soil Moisture Detector
+   /Air temperature and humidity sensor (DHT22)
+   /solenoid valve
+   /BMP280 Barometer
+   /DS1302 real time clock
 
    #Some Useful Links:
   
